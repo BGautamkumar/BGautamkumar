@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Backend scalability, system design and advanced DSA.**
 - 💻 I design and build software that solves real problems.
 - 🚀 I've built several public repositories, and I'm continuously improving my skills through projects and problem solving.
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lK5i2LLXoJmQtJZd7KlCw5TI-GijoTjF/view?usp=sharing](https://drive.google.com/file/d/1lK5i2LLXoJmQtJZd7KlCw5TI-GijoTjF/view?usp=sharing)
+- 📄 Know about my experiences [Resume PDF](https://drive.google.com/file/d/1lK5i2LLXoJmQtJZd7KlCw5TI-GijoTjF/view?usp=sharing)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
