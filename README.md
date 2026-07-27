@@ -10,10 +10,15 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/gautamkumarb07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/githu  b-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautamkumarb07/" height="30" width="40" /></a>
-<a href="https://instagram.com/nameisgautam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nameisgautam_" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/gautamkumar05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gautamkumar05/" height="30" width="40" /></a>
-<a href="https://discord.gg/FDj5P9Pd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FDj5P9Pd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gautamkumarb07/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+       width="30"
+       height="30"
+       alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/nameisgautam_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nameisgautam_" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/gautamkumar05/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gautamkumar05/" height="30" width="40" /></a>
+<a href="https://discord.gg/FDj5P9Pd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FDj5P9Pd" height="30" width="40" /></a>
 </p>
   <h2 align="left">Languages and Tools:</h2>
 
