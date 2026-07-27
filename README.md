@@ -9,12 +9,12 @@
 - 📄 Know about my experiences [Resume PDF](https://drive.google.com/file/d/1lK5i2LLXoJmQtJZd7KlCw5TI-GijoTjF/view?usp=sharing)
 
 <h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/gautamkumarb07/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
-       width="30"
+<p align="left"><a href="https://www.linkedin.com/in/gautamkumarb07/" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="LinkedIn"
        height="30"
-       alt="LinkedIn"/>
+       width="40" />
 </a>
 <a href="https://instagram.com/nameisgautam_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nameisgautam_" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/gautamkumar05/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gautamkumar05/" height="30" width="40" /></a>
