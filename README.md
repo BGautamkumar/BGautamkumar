@@ -10,10 +10,11 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gautamkumarb07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautamkumarb07/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gautamkumarb07/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/githu  b-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautamkumarb07/" height="30" width="40" /></a>
 <a href="https://instagram.com/nameisgautam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nameisgautam_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/gautamkumar05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gautamkumar05/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/FDj5P9Pd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FDj5P9Pd" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/gautamkumar05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gautamkumar05/" height="30" width="40" /></a>
+<a href="https://discord.gg/FDj5P9Pd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FDj5P9Pd" height="30" width="40" /></a>
 </p>
   <h2 align="left">Languages and Tools:</h2>
 
@@ -50,4 +51,4 @@ Alongside development, I’ve also worked on research projects in areas like com
 I enjoy breaking down complex problems into smaller pieces and building structured solutions step by step.<br><br>
 Always open to connecting with developers, engineers, and teams working on interesting problems.<br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgautamkumar" alt="bgautamkumar" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=bgautamkumar" alt="bgautamkumar" /></p>
